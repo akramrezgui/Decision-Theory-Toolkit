@@ -1,5 +1,3 @@
-# Decision-Theory-Toolkit
-An interactive Decision Theory and Quantitative Finance toolkit exploring decision-making under uncertainty, risk, utility theory, and portfolio analysis using Python and Streamlit.
 # Decision Theory & Quantitative Finance Toolkit
 
 An interactive Python-based toolkit for exploring mathematical models of decision-making under uncertainty and their applications in finance.
